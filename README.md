@@ -1,24 +1,6 @@
-# README
+# GRAMMABLE Instagram Clone App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A social media/picture sharing appliation built using Test-Driven Development (TDD). Built with authomated software tests in Ruby using RSpec.
 
-Things you may want to cover:
+## 🗐 Home Page
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
