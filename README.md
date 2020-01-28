@@ -1,6 +1,6 @@
 # GRAMMABLE Instagram Clone App
 
-A social media/picture-sharing app built using Test-Driven Development (TDD). Built with automated software tests in Ruby using RSpec.
+A social media/picture-sharing app built using Test-Driven Development (TDD) and automated tests in Ruby using RSpec.
 
 
 ## 🗐 Home Page
